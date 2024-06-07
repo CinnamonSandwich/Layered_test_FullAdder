@@ -18,4 +18,7 @@ The diagram below explains further on how the testbench works,
 
 
 
-Note : For the version of Vivado I'm using (2023.2) there is no support for generic mailboxes hence parametrised mailboxes are used with its parameter being the transaction class.
+
+
+### Note : 
+For the version of Vivado I'm using (2023.2) there is no support for generic mailboxes hence parametrised mailboxes are used with its parameter being the transaction class.
