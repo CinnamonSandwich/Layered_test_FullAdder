@@ -20,5 +20,6 @@ The diagram below explains further on how the testbench works,
 
 
 
-### Note : 
-For the version of Vivado I'm using (2023.2) there is no support for generic mailboxes hence parametrised mailboxes are used with its parameter being the transaction class.
+### Notes : 
+- For the version of Vivado I'm using (2023.2) there is no support for generic mailboxes hence parametrised mailboxes are used with its parameter being the transaction class.
+- A few lines are commented, the commented lines are required to run the code in EDA Playground but to run the code in Vivado the lines aren't required hence they have been commented.
