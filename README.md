@@ -12,6 +12,8 @@ It has a,
 It doesnt have a refrence model.
 
 The diagram below explains further on how the testbench works,
+
+
 <img width="509" alt="image" src="https://github.com/CinnamonSandwich/Layered_test_FullAdder/assets/92498341/15296b64-f47e-448b-ba24-914736db2705">
 
 
